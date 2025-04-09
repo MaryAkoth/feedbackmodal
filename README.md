@@ -22,7 +22,7 @@ Follow these steps to run the app locally:
 
 1. Clone the repository (or download the folder):
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MaryAkoth/feedbackmodal.git
    cd your-repo-name
 2. npm install
 3. npm start
